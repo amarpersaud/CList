@@ -1,4 +1,13 @@
-mwtpludn.review*  
-9icmzvn6.website*  
-66cpwgln.space*  
-1j7740kd.website*
+# This hosts file is a custom file for blocking some annoying popups
+#
+# Date: August 02 2018
+# Number of unique domains: 4
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/amarpersaud/CList/master/hosts.txt
+#
+# ===============================================================
+
+0.0.0.0 mwtpludn.review
+0.0.0.0 9icmzvn6.website
+0.0.0.0 66cpwgln.space
+0.0.0.0 1j7740kd.website
